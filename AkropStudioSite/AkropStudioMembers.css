@@ -1,0 +1,93 @@
+.up_line{
+	background-color:#20eb00;
+	border: 1px solid;
+	font-size: 50px;
+	-moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -khtml-border-radius:5px;
+
+}
+
+.imgg{
+	margin-top:8px;
+	margin-left:8px;
+}
+
+.akropimg{
+	margin-left:15px;
+	transition:5s all;
+}
+
+.akropimg:hover{
+	transform:rotate(60deg);
+}
+
+
+.watch{
+	
+}
+
+
+.left_line{
+	position:absolute;
+	bolder: 1px solid black;
+	background-color:#d9d9d9;
+	font-size: 20px;
+	-moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -khtml-border-radius:5px;
+ margin-right:1250px;
+ text-align:center;
+}
+
+.Members1{
+	position:relative;
+	margin-left:100px;
+}
+
+.igor{
+	background-color:#00e600;
+	border: 1px solid;
+	border-left-style:hidden;
+	border-right:hidden;
+	font-size: 20px;
+	height:150px;
+	-moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -khtml-border-radius:5px;
+portrait:relative;
+}
+
+.ilya{
+	background-color:#00e600;
+	border: 1px solid;
+	border-left-style:hidden;
+	border-right:hidden;
+	font-size: 20px;
+	height:150px;
+	-moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -khtml-border-radius:5px;
+
+}
+
+.igor:hover{
+	background-color:yellow;
+	
+}
+
+.ilya:hover{
+	background-color:yellow;
+}
+
+.site{
+	background-color:#00e600;
+	border: 1px groove;
+	font-size: 20px;
+	-moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -khtml-border-radius:5px;
+ top:10px;
+}
+
+
